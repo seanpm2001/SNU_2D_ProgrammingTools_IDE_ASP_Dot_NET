@@ -32,10 +32,18 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
-# BitBake source file
-*.bb linguist-detectable=true
-*.bb linguist-documentation=false
-*.bb linguist-language=BitBake
+# ASP.NET source file
+*.aspx linguist-detectable=true
+*.aspx linguist-documentation=false
+*.aspx linguist-language=ASP.NET
+# C# HTML source file
+*.cshtml linguist-detectable=true
+*.cshtml linguist-documentation=false
+*.cshtml linguist-language=C#
+# VB HTML source file
+*.vbhtml linguist-detectable=true
+*.vbhtml linguist-documentation=false
+*.vbhtml linguist-language=Visual-Basic
 # JSON (JavaScript Object Notation) source file
 *.json linguist-detectable=false
 *.json linguist-documentation=false
@@ -173,7 +181,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 2 (2022, Tuesday, August 30th at 2:34 pm PST)
-# Line count (including blank lines and compiler line): 180
+# File type: gitattributes file (*.gitattributes)
+# File version: 3 (2022, Saturday, November 12th at 3:20 pm PST)
+# Line count (including blank lines and compiler line): 188
 # End of script
